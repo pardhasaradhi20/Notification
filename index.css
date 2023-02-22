@@ -1,0 +1,19 @@
+/* Write your code here. */
+
+.image-size {
+  height: 20px;
+  margin-right: 20px;
+  align-self: center;
+}
+.box-1 {
+  background-color: #0b69ff;
+}
+.box-2 {
+  background-color: #2dca73;
+}
+.box-3 {
+  background-color: #ffb800;
+}
+.box-4 {
+  background-color: #ff0b37;
+}
